@@ -1,2 +1,2 @@
 # CS520_Project
-Projects related to Artificial Intelligence
+Projects related to Artificial Intelligence.
